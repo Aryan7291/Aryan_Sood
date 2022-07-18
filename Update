@@ -1,0 +1,14 @@
+{
+    "token": "90939178|-31949293868054378|90940310",
+    "cmd": "UPDATE",
+   "dbName": "EMPLOYEE",
+    "rel": "EMP-Rel",
+    "jsonStr": {
+        "3": {
+          "id":"3"
+            "name": "Anuj"
+          "email" : "anuj@gmail.com"
+        }
+        
+    }
+}
