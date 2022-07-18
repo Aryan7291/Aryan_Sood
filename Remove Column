@@ -1,0 +1,7 @@
+{
+    "token": "90939178|-31949293868054378|90940310",
+    "cmd": "REMOVE",
+    "dbName": "EMPLOYEE",
+    "rel": "EMP-Rel",
+    "jsonStr": ["EmpEmail","Empid","Empname"]
+}
