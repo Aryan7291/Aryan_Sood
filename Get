@@ -1,0 +1,9 @@
+{
+    "token": "90939178|-31949293868054378|90940310",
+    "cmd": "GET",
+    "dbName": "EMPLOYEE",
+    "rel": "EMP-Rel",
+    "jsonStr":{
+        "name": "Riya"
+    }
+}
